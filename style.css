@@ -21,6 +21,7 @@ body {
     margin: 0 auto;
     text-align: center;
     overflow: auto;
+    background-color:lightgreen;
     background-size: contain;
     background-repeat: no-repeat;
     background-position-x: center;
